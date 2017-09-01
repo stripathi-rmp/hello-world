@@ -1,2 +1,7 @@
 # hello-world
-This is hello world application for demo purpose!
+
+Hi there,
+
+I am a solution archecture/ developer for my organization.
+
+This is very basic "hello world" application which is build purposefully for customer demo!
